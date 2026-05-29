@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c50899b45b095d",
+        "id": "e2c22e473ada8862",
         "type": "tabs",
         "children": [
           {
-            "id": "b88e4cb2266a6fe2",
+            "id": "079eb9aa338d1ffb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "trading/交易规则(我的交易系统).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "交易规则(我的交易系统)"
             }
           }
         ]
@@ -194,9 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b88e4cb2266a6fe2",
+  "active": "079eb9aa338d1ffb",
   "lastOpenFiles": [
+    "AI-road/hermes-服务器部署全记录.md",
+    "trading/交易规则(我的交易系统).md",
     "wb3/web3-运行原理-笔记.md",
+    "AI-road/codex使用小技巧.md",
+    "conflict-files-obsidian-git.md",
+    "其他",
+    "trading",
+    "AI-road",
     "codex.md",
     "wb3/交易规则.md",
     "wb3",

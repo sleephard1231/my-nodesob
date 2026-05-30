@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trading/交易规则(我的交易系统).md",
+                "file": "trading/交易日记-5月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交易规则(我的交易系统)"
+              "title": "交易日记-5月"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#5月22-30日",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,8 +196,15 @@
   },
   "active": "079eb9aa338d1ffb",
   "lastOpenFiles": [
+    "trading/交易系统.md",
+    "trading/交易日记-5月.md",
+    "读书笔记/README.md",
+    "读书笔记/经营未来.md",
+    "读书笔记/股票大作手回忆录.md",
     "AI-road/hermes-服务器部署全记录.md",
+    "读书笔记",
     "trading/交易规则(我的交易系统).md",
+    "wb3/Web3 运行原理 - AI下乡计划分享笔记.md",
     "wb3/web3-运行原理-笔记.md",
     "AI-road/codex使用小技巧.md",
     "conflict-files-obsidian-git.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trading/交易日记-5月.md",
+                "file": "读书笔记/经营未来.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交易日记-5月"
+              "title": "经营未来"
             }
           }
         ]
@@ -196,11 +196,11 @@
   },
   "active": "079eb9aa338d1ffb",
   "lastOpenFiles": [
+    "读书笔记/股票大作手回忆录.md",
     "trading/交易系统.md",
     "trading/交易日记-5月.md",
     "读书笔记/README.md",
     "读书笔记/经营未来.md",
-    "读书笔记/股票大作手回忆录.md",
     "AI-road/hermes-服务器部署全记录.md",
     "读书笔记",
     "trading/交易规则(我的交易系统).md",

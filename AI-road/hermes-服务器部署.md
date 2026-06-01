@@ -1,4 +1,4 @@
-# Hermes Agent 服务器部署全记录的
+# Hermes Agent 服务器部署
 
 > 腾讯云上海服务器 | Ubuntu | Docker 部署 | 微信网关
 

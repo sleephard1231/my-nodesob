@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记/经营未来.md",
+                "file": "读书笔记/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "经营未来"
+              "title": "README"
             }
           }
         ]
@@ -196,16 +196,22 @@
   },
   "active": "079eb9aa338d1ffb",
   "lastOpenFiles": [
-    "读书笔记/股票大作手回忆录.md",
+    "AI-road/Long-term Memory for AI Agents.md",
+    "AI-road/hermes-服务器部署.md",
+    "wb3/播客笔记-为什么看好Web3.md",
+    "wb3/Web3 运行原理 - AI下乡计划分享笔记.md",
+    "trading/YouTube双均线交易系统币哥.md",
+    "trading/交易系统完整笔记.md",
     "trading/交易系统.md",
+    "wb3/web3-运行原理-笔记.md",
+    "读书笔记/经营未来.md",
+    "trading/音频2笔记-BTC-ETH周线复盘与下周思路.md",
+    "播客笔记-为什么看好Web3.md",
+    "读书笔记/股票大作手回忆录.md",
     "trading/交易日记-5月.md",
     "读书笔记/README.md",
-    "读书笔记/经营未来.md",
-    "AI-road/hermes-服务器部署全记录.md",
     "读书笔记",
     "trading/交易规则(我的交易系统).md",
-    "wb3/Web3 运行原理 - AI下乡计划分享笔记.md",
-    "wb3/web3-运行原理-笔记.md",
     "AI-road/codex使用小技巧.md",
     "conflict-files-obsidian-git.md",
     "其他",

@@ -1,0 +1,27 @@
+{
+  "id": "conv-1781798902895-33ct6y078",
+  "providerId": "codex",
+  "title": "你好",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781798902898,
+  "updatedAt": 1785665955838,
+  "lastResponseAt": 1785665955838,
+  "sessionId": "019edb7d-9d92-76a0-a0e6-6a7d23afda5e",
+  "selectedModel": "gpt-5.5",
+  "providerState": {
+    "threadId": "019edb7d-9d92-76a0-a0e6-6a7d23afda5e",
+    "sessionFilePath": "C:\\Users\\xhtpc\\.codex\\sessions\\2026\\06\\19\\rollout-2026-06-19T00-08-23-019edb7d-9d92-76a0-a0e6-6a7d23afda5e.jsonl",
+    "transcriptRootPath": "C:\\Users\\xhtpc\\.codex\\sessions",
+    "nativeConversationContextEstablished": true
+  },
+  "usage": {
+    "inputTokens": 32946,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32128,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32946,
+    "percentage": 13,
+    "model": "gpt-5.5"
+  }
+}

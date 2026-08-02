@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trading/YouTube双均线交易系统币哥.md",
+                "file": "mysql/关联查询笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YouTube双均线交易系统币哥"
+              "title": "关联查询笔记"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wb3/交易规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "交易规则 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wb3/交易规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "交易规则 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trading/加密姐妹说_笔记.md",
+                "file": "mysql/窗口函数笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "加密姐妹说_笔记 的大纲"
+              "title": "窗口函数笔记 的大纲"
             }
           },
           {
@@ -174,13 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "abd5419ab925c6c5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,43 +201,48 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "079eb9aa338d1ffb",
+  "active": "7990dfa6b2457bef",
   "lastOpenFiles": [
-    "播客笔记-搞钱女孩深圳听友会.md",
-    "pc配置/hermes的隧道翻墙ssh配置.md",
-    "其他/播客笔记-搞钱女孩深圳听友会.md",
-    "hermes的隧道翻墙ssh配置.md",
-    "pc配置",
-    "trading/YouTube双均线交易系统币哥.md",
-    "wb3/AI_x_Web3_黑客松赛道实战_笔记.md",
-    "trading/交易日记-5月.md",
-    "trading/BTC-ETH周线复盘与下周思路.md",
-    "trading/加密姐妹说_笔记.md",
-    "播客笔记-勇敢做AI浪潮里的一朵小浪花.md",
-    "转录稿-搞钱女孩-AI浪潮.md",
-    "wb3/播客笔记-为什么看好Web3.md",
-    "trading/交易系统完整笔记.md",
+    "mysql/窗口函数笔记.md",
+    "mysql/MySQL MOC.md",
+    "README.md",
+    "窗口函数连接笔记.md",
+    "mysql/关联查询笔记.md",
+    "mysql/窗口函数连接笔记.md",
     "AI-road/Long-term_Memory_for_AI_Agents_笔记.md",
     "AI-road/hermes-服务器部署.md",
-    "AI-road/Long-term Memory for AI Agents.md",
-    "读书笔记/README.md",
+    "AI-road/AI-road MOC.md",
+    "pc配置/配置 MOC.md",
+    "trading/交易 MOC.md",
+    "wb3/Web3 MOC.md",
+    "读书笔记/读书笔记 MOC.md",
+    "其他/其他 MOC.md",
+    "mysql",
+    "新建文件夹",
+    "未命名.canvas",
+    "trading/加密姐妹说_笔记.md",
+    "未命名.base",
+    "未命名 1.base",
+    "wb3/AI_Agent支付_完整学习笔记.md",
+    "wb3/AI_x_Web3_黑客松赛道实战_笔记.md",
+    "wb3/AI×Web3_黑客松实战_笔记.md",
     "wb3/Web3 运行原理 - AI下乡计划分享笔记.md",
-    "trading/交易系统.md",
     "wb3/web3-运行原理-笔记.md",
-    "读书笔记/经营未来.md",
-    "播客笔记-为什么看好Web3.md",
+    "wb3/播客笔记-为什么看好Web3.md",
+    "trading/交易系统完整笔记.md",
+    "读书笔记/README.md",
     "读书笔记/股票大作手回忆录.md",
+    "pc配置/hermes的隧道翻墙ssh配置.md",
+    "trading/YouTube双均线交易系统币哥.md",
+    "pc配置",
     "读书笔记",
-    "trading/交易规则(我的交易系统).md",
-    "AI-road/codex使用小技巧.md",
-    "conflict-files-obsidian-git.md",
     "其他",
     "trading",
     "AI-road",
-    "wb3",
-    "AI"
+    "wb3"
   ]
 }

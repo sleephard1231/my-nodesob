@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1781798902895-33ct6y078",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785665050326-23t47tk",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785665050283-61rls5n",
+      "timestamp": 1785665050283,
+      "rawDisplayText": "你好",
+      "canonicalText": "你好",
+      "images": [],
+      "contentDigest": "815b1925f3db319cfc8ef8cad8a91b3f8b512f630d8f82635cb105e93e666c2a",
+      "providerUserMessageId": "2f8f7187-4889-4390-a1ac-ba70c65c4f94",
+      "providerAssistantMessageId": "msg_0b2d676a90ad53d1016a6f163fa6748190b3871c0657e704da"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785665116845-sdw7942",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785665116841-0urolxp",
+      "timestamp": 1785665116841,
+      "rawDisplayText": "你的api是哪里来的",
+      "canonicalText": "你的api是哪里来的",
+      "images": [],
+      "contentDigest": "5a2c68a5f472853ad983bf9f17c77e02ac53d5439f655599317f3a65a5b1e089",
+      "providerUserMessageId": "13c827b9-87b5-4d61-9996-0e834413ef27",
+      "providerAssistantMessageId": "msg_08f9fbf5c2d69a02016a6f1663a0388193a7b4012b93a28b19"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785665170048-w8fcbtu",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785665170044-z90y658",
+      "timestamp": 1785665170044,
+      "rawDisplayText": "看一下我的笔记布局是否合理",
+      "canonicalText": "看一下我的笔记布局是否合理",
+      "images": [],
+      "contentDigest": "b847b328cffd397814d575872fabc99eea60dfebaeeee6abbed80ae88385db9f",
+      "providerUserMessageId": "d2efaa41-02bd-4fa5-9aa8-30ddf39d0da4",
+      "providerAssistantMessageId": "msg_0a79d6a52cdc89cc016a6f17102bc481979c43590d9439cc7e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785665810969-39vddm9",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1785665810965-y5ivaxj",
+      "timestamp": 1785665810965,
+      "rawDisplayText": "生成",
+      "canonicalText": "生成",
+      "images": [],
+      "contentDigest": "f38bbf8b6d33be936637d0ba7bd00ec7eafbd4d1ccd45ea86569bad7c8272fd0",
+      "providerUserMessageId": "265f7ec2-c230-4006-baba-d6eae3b6ec10",
+      "providerAssistantMessageId": "msg_0070655a9304b6a9016a6f199e10f4819197dbaee718266167"
+    }
+  ]
+}

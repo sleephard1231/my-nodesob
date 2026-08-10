@@ -17,7 +17,7 @@ tags:
 | AI 学习 / Agent | [[AI-road/AI-road MOC.md]] | AI Agent、长期记忆、部署实践 |
 | Web3 | [[wb3/Web3 MOC.md]] | Web3 原理、AI × Web3、黑客松、支付基础设施 |
 | 交易 | [[trading/交易 MOC.md]] | 交易系统、复盘、交易日记、交易心理 |
-| 数据库 / MySQL | [[mysql/MySQL MOC.md]] | SQL、Join、窗口函数 |
+| 数据库 / MySQL | [[MySQL MOC]] | SQL、Join、窗口函数 |
 | 读书笔记 | [[读书笔记/读书笔记 MOC.md]] | 书籍笔记与阅读计划 |
 | 配置 / 运维 | [[pc配置/配置 MOC.md]] | 服务器、代理、SSH、环境配置 |
 | 其他 | [[其他/其他 MOC.md]] | 暂时未归类的播客/资料 |

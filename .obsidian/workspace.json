@@ -205,10 +205,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "211b2ed1946344dc",
+  "active": "7990dfa6b2457bef",
   "lastOpenFiles": [
-    "AI-road/hermes-服务器部署.md",
+    "AI应用开发/numpy&pandas/第三章_Pandas核心数据结构与操作笔记.md",
     "AI应用开发/numpy&pandas/第二章_Numpy学习笔记.md",
+    "AI-road/hermes-服务器部署.md",
     "AI应用开发/numpy&pandas",
     "AI应用开发/新建文件夹",
     "AI应用开发/mysql/子查询笔记.md",
@@ -242,7 +243,6 @@
     "未命名.canvas",
     "trading/加密姐妹说_笔记.md",
     "未命名.base",
-    "未命名 1.base",
-    "wb3/AI_Agent支付_完整学习笔记.md"
+    "未命名 1.base"
   ]
 }

@@ -13,7 +13,7 @@
       "canonicalText": "你好",
       "images": [],
       "contentDigest": "815b1925f3db319cfc8ef8cad8a91b3f8b512f630d8f82635cb105e93e666c2a",
-      "providerUserMessageId": "2f8f7187-4889-4390-a1ac-ba70c65c4f94",
+      "providerUserMessageId": "019fc1ee-618e-7763-b80b-5bafc98d00f4",
       "providerAssistantMessageId": "msg_0b2d676a90ad53d1016a6f163fa6748190b3871c0657e704da"
     },
     {
@@ -27,7 +27,7 @@
       "canonicalText": "你的api是哪里来的",
       "images": [],
       "contentDigest": "5a2c68a5f472853ad983bf9f17c77e02ac53d5439f655599317f3a65a5b1e089",
-      "providerUserMessageId": "13c827b9-87b5-4d61-9996-0e834413ef27",
+      "providerUserMessageId": "019fc1ef-5ab2-7663-9055-fac9972ba62c",
       "providerAssistantMessageId": "msg_08f9fbf5c2d69a02016a6f1663a0388193a7b4012b93a28b19"
     },
     {
@@ -41,7 +41,7 @@
       "canonicalText": "看一下我的笔记布局是否合理",
       "images": [],
       "contentDigest": "b847b328cffd397814d575872fabc99eea60dfebaeeee6abbed80ae88385db9f",
-      "providerUserMessageId": "d2efaa41-02bd-4fa5-9aa8-30ddf39d0da4",
+      "providerUserMessageId": "019fc1f0-2a84-7633-9a08-f58779380d57",
       "providerAssistantMessageId": "msg_0a79d6a52cdc89cc016a6f17102bc481979c43590d9439cc7e"
     },
     {
@@ -55,8 +55,36 @@
       "canonicalText": "生成",
       "images": [],
       "contentDigest": "f38bbf8b6d33be936637d0ba7bd00ec7eafbd4d1ccd45ea86569bad7c8272fd0",
-      "providerUserMessageId": "265f7ec2-c230-4006-baba-d6eae3b6ec10",
+      "providerUserMessageId": "019fc1f9-f21f-7c73-9442-570d3b887f22",
       "providerAssistantMessageId": "msg_0070655a9304b6a9016a6f199e10f4819197dbaee718266167"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786438287302-4wfopiy",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786438287270-fdldhpn",
+      "timestamp": 1786438287270,
+      "rawDisplayText": "我这个第二章的学习笔记,怎么能和第三章一样呢,md文档开头有导航那个 链接,点击会滑到对应的地方,你帮我改进一下这个笔记",
+      "canonicalText": "我这个第二章的学习笔记,怎么能和第三章一样呢,md文档开头有导航那个 链接,点击会滑到对应的地方,你帮我改进一下这个笔记",
+      "images": [],
+      "contentDigest": "058842257a496e35723fcb3c5d7867b56dada7d70bb9c5765dd7990741ae27f9",
+      "providerUserMessageId": "58de6438-f6dd-4061-b141-b0a8787b7804",
+      "providerAssistantMessageId": "msg_0359e3e9a951d3a5016a7ae33144e08196be90f33fe18c0713"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786440717893-me77b1r",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786440717888-lathmbl",
+      "timestamp": 1786440717888,
+      "rawDisplayText": "方案 B： 顺手把这篇第二章的排版再统一得更像第三章（比如标题风格、分隔线、速查总结样式）",
+      "canonicalText": "方案 B： 顺手把这篇第二章的排版再统一得更像第三章（比如标题风格、分隔线、速查总结样式）",
+      "images": [],
+      "contentDigest": "2712ef3fc73912decf9f3a2ffbf4352ce205a99d7dfcdab7ef5617327f85a85a",
+      "providerUserMessageId": "0dae40a2-97ea-4f46-9f67-f971e16ffc9a",
+      "providerAssistantMessageId": "msg_0f7238acffcace24016a7aec9ea9b88190b7da49fb0cd052d8"
     }
   ]
 }

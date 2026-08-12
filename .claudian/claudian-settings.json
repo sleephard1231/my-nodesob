@@ -33,6 +33,7 @@
       "enableChrome": false,
       "enableBangBash": false,
       "customModels": "",
+      "defaultModel": "opus",
       "lastModel": "haiku",
       "modelEnvironmentType": "",
       "titleModelEnvironmentType": "",
@@ -40,7 +41,7 @@
       "environmentHash": ""
     },
     "codex": {
-      "enabled": true,
+      "enabled": false,
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
@@ -203,15 +204,12 @@
         }
       ],
       "modelAliases": {},
-      "visibleModels": [
-        "gpt-5.4",
-        "gpt-5.5"
-      ],
+      "visibleModels": [],
       "enableUltraEffort": false,
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "catalogTimestamp": 1786438219065,
+      "catalogTimestamp": 1786521506779,
       "catalogFingerprint": "2:d6900e3569a9ed3c56690d67ddab5c78be4db48c28eec68d5f429370826ee25e",
       "installationMethodsByHost": {
         "device:0ff40e1e-5035-427c-8e7f-091c5004f354": "native-windows"
@@ -221,14 +219,33 @@
     "opencode": {
       "cliPath": "",
       "cliPathsByHost": {},
-      "enabled": false,
+      "enabled": true,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
-      "preferredThinkingByModel": {},
+      "preferredThinkingByModel": {
+        "opencode-go/deepseek-v4-flash": "max"
+      },
       "selectedMode": "",
-      "thinkingOptionsByModel": {},
-      "visibleModels": []
+      "thinkingOptionsByModel": {
+        "opencode-go/deepseek-v4-flash": [
+          {
+            "label": "Low",
+            "value": "low"
+          },
+          {
+            "label": "High",
+            "value": "high"
+          },
+          {
+            "label": "Max",
+            "value": "max"
+          }
+        ]
+      },
+      "visibleModels": [
+        "opencode-go/deepseek-v4-flash"
+      ]
     },
     "pi": {
       "cliPath": "",
@@ -256,13 +273,19 @@
     }
   },
   "settingsProvider": "claude",
+  "lastSelectedChatModel": {
+    "providerId": "opencode",
+    "model": "opencode:opencode-go/deepseek-v4-flash"
+  },
   "savedProviderModel": {
     "claude": "haiku",
-    "codex": "gpt-5.5"
+    "codex": "gpt-5.5",
+    "opencode": "opencode:opencode-go/deepseek-v4-flash"
   },
   "savedProviderEffort": {
     "claude": "high",
-    "codex": "high"
+    "codex": "high",
+    "opencode": "max"
   },
   "savedProviderServiceTier": {
     "codex": "fast"
@@ -270,15 +293,23 @@
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
     "claude": "yolo",
-    "codex": "yolo"
+    "codex": "yolo",
+    "opencode": "yolo"
   },
   "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",
-  "maxTabs": 3,
+  "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
+  "enableDualPane": true,
+  "enableFilePane": true,
+  "dualPaneSide": "right",
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "pinnedLinkedNotePaths": [],
   "hiddenProviderCommands": {},
+  "maxTabs": 3,
   "tabBarPosition": "input"
 }

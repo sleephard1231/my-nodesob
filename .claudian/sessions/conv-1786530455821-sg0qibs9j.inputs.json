@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786530455821-sg0qibs9j",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786530455996-31akte0",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786530455814-4zuzhfu",
+      "timestamp": 1786530455814,
+      "rawDisplayText": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
+      "canonicalText": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
+      "context": {
+        "currentNote": {
+          "path": "AI应用开发/numpy&pandas/第三章尚硅谷Pandas.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "332ba3dda8dd3d313ce3a36f6a32b61991e631a6edee1553d8e91394d4fd93e3",
+      "providerAssistantMessageId": "msg_ff586cda8001D6ORgGQbdr4Ezv",
+      "providerUserMessageId": "msg_ff5836dc7001sbnejVLN9sgMl4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786530871295-qc51k4m",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786530871291-41yyiv4",
+      "timestamp": 1786530871291,
+      "rawDisplayText": "我的第二章那个笔记也是,你帮我看一下",
+      "canonicalText": "我的第二章那个笔记也是,你帮我看一下",
+      "images": [],
+      "contentDigest": "60bcae146f92cd4c5a14c1f914b337ced6bac36925fcdd5bbc24a221ca72effd",
+      "providerAssistantMessageId": "msg_ff5929fe1001xpMLw1Qx3YiC2R"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786531555378-heylv7o",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786531555375-c7knnvs",
+      "timestamp": 1786531555375,
+      "rawDisplayText": "处理吧",
+      "canonicalText": "处理吧",
+      "images": [],
+      "contentDigest": "e8d70f34f4239eb447a3a1c9b2316ddec4d3dcf73532faef4bebc43f70e36f55",
+      "providerAssistantMessageId": "msg_ff594ebe30016FZZds0xEe7TdX"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1786530455821-sg0qibs9j",
+  "providerId": "opencode",
+  "title": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786530455828,
+  "lastActivityAt": 1786531614247,
+  "sessionId": "ses_00a7c92a5ffeA5t9cx6LI80vrp",
+  "selectedModel": "opencode:opencode-go/deepseek-v4-flash",
+  "providerState": {
+    "databasePath": "C:\\Users\\xhtpc\\.local\\share\\opencode\\opencode.db",
+    "nativeConversationContextEstablished": true
+  },
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 64203,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 0,
+    "model": "haiku",
+    "percentage": 6
+  }
+}

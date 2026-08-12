@@ -69,7 +69,7 @@
       "canonicalText": "我这个第二章的学习笔记,怎么能和第三章一样呢,md文档开头有导航那个 链接,点击会滑到对应的地方,你帮我改进一下这个笔记",
       "images": [],
       "contentDigest": "058842257a496e35723fcb3c5d7867b56dada7d70bb9c5765dd7990741ae27f9",
-      "providerUserMessageId": "58de6438-f6dd-4061-b141-b0a8787b7804",
+      "providerUserMessageId": "019ff005-0866-7203-a3b2-4906ae43bc73",
       "providerAssistantMessageId": "msg_0359e3e9a951d3a5016a7ae33144e08196be90f33fe18c0713"
     },
     {
@@ -83,8 +83,20 @@
       "canonicalText": "方案 B： 顺手把这篇第二章的排版再统一得更像第三章（比如标题风格、分隔线、速查总结样式）",
       "images": [],
       "contentDigest": "2712ef3fc73912decf9f3a2ffbf4352ce205a99d7dfcdab7ef5617327f85a85a",
-      "providerUserMessageId": "0dae40a2-97ea-4f46-9f67-f971e16ffc9a",
+      "providerUserMessageId": "019ff02a-164d-7543-b260-58a942ac9d4e",
       "providerAssistantMessageId": "msg_0f7238acffcace24016a7aec9ea9b88190b7da49fb0cd052d8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786521518290-94twiax",
+      "userTurnOrdinal": 8,
+      "state": "staged",
+      "localMessageId": "msg-1786521518251-vdexcb3",
+      "timestamp": 1786521518251,
+      "rawDisplayText": "我点击那个链接怎么滑动不过去",
+      "canonicalText": "我点击那个链接怎么滑动不过去",
+      "images": [],
+      "contentDigest": "65522c60036c319e1c70d4df228c47d3b85498856d765b6ec9f24f42fecbcaa3"
     }
   ]
 }

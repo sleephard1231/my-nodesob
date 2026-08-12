@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c22e473ada8862",
+        "id": "b90636d84b300327",
         "type": "tabs",
         "children": [
           {
-            "id": "211b2ed1946344dc",
+            "id": "ccb4512532d73073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI应用开发/numpy&pandas/第二章_Numpy学习笔记.md",
+                "file": "AI应用开发/numpy&pandas/第三章尚硅谷Pandas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二章_Numpy学习笔记"
+              "title": "第三章尚硅谷Pandas"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/窗口函数笔记.md",
+                "file": "AI应用开发/numpy&pandas/第三章_Pandas核心数据结构与操作笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "窗口函数笔记 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 632.8333129882812
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +207,11 @@
   },
   "active": "7990dfa6b2457bef",
   "lastOpenFiles": [
-    "AI应用开发/numpy&pandas/第三章_Pandas核心数据结构与操作笔记.md",
     "AI应用开发/numpy&pandas/第二章_Numpy学习笔记.md",
+    "AI应用开发/numpy&pandas/第三章尚硅谷Pandas.md",
+    "AI应用开发/numpy&pandas/尚硅谷Pandas学习笔记（详细整理版）.md",
+    "其他/尚硅谷Pandas学习笔记（详细整理版）.md",
+    "AI应用开发/numpy&pandas/第三章_Pandas核心数据结构与操作笔记.md",
     "AI-road/hermes-服务器部署.md",
     "AI应用开发/numpy&pandas",
     "AI应用开发/新建文件夹",
@@ -236,12 +239,9 @@
     "pc配置/配置 MOC.md",
     "trading/交易 MOC.md",
     "wb3/Web3 MOC.md",
-    "读书笔记/读书笔记 MOC.md",
-    "其他/其他 MOC.md",
     "AI应用开发",
     "新建文件夹",
     "未命名.canvas",
-    "trading/加密姐妹说_笔记.md",
     "未命名.base",
     "未命名 1.base"
   ]

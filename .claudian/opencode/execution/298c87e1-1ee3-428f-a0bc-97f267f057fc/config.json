@@ -1,0 +1,29 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "build": {
+      "prompt": "{file:D:\\My-kownnodes\\nodes-ob\\mynodes\\.claudian\\opencode\\execution\\298c87e1-1ee3-428f-a0bc-97f267f057fc\\system.md}"
+    },
+    "claudian-yolo": {
+      "mode": "primary",
+      "permission": {
+        "plan_enter": "allow",
+        "question": "allow"
+      },
+      "prompt": "{file:D:\\My-kownnodes\\nodes-ob\\mynodes\\.claudian\\opencode\\execution\\298c87e1-1ee3-428f-a0bc-97f267f057fc\\system.md}"
+    },
+    "claudian-safe": {
+      "mode": "primary",
+      "permission": {
+        "plan_enter": "allow",
+        "question": "allow",
+        "bash": "ask",
+        "edit": "ask"
+      },
+      "prompt": "{file:D:\\My-kownnodes\\nodes-ob\\mynodes\\.claudian\\opencode\\execution\\298c87e1-1ee3-428f-a0bc-97f267f057fc\\system.md}"
+    },
+    "plan": {
+      "prompt": "{file:D:\\My-kownnodes\\nodes-ob\\mynodes\\.claudian\\opencode\\execution\\298c87e1-1ee3-428f-a0bc-97f267f057fc\\system.md}"
+    }
+  }
+}

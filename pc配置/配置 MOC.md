@@ -1,4 +1,4 @@
-﻿---
+---
 type: moc
 topic: config
 created: 2026-08-02

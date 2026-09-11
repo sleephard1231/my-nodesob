@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788932096347-2depb57ss",
+  "providerId": "opencode",
+  "title": "帮我整理一下我这个笔记,重新排版,我需要你严格看我的笔记,并且认真排版,是我的笔记完善,重新写一个笔...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1788932096353,
+  "lastActivityAt": 1789048378813,
+  "sessionId": "ses_f7b56769dffeMmswscbt0JO4bz",
+  "selectedModel": "opencode:opencode-go/deepseek-v4-flash",
+  "providerState": {
+    "databasePath": "C:\\Users\\xhtpc\\.local\\share\\opencode\\opencode.db",
+    "nativeConversationContextEstablished": true
+  },
+  "linkedContentPath": "trading/以太战法交易直播.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 101079,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 0,
+    "model": "haiku",
+    "percentage": 10
+  }
+}

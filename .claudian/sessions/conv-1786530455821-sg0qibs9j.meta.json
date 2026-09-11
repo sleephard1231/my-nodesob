@@ -15,10 +15,10 @@
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextTokens": 64203,
-    "contextWindow": 1000000,
-    "contextWindowIsAuthoritative": true,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": false,
     "inputTokens": 0,
-    "model": "haiku",
-    "percentage": 6
+    "model": "opencode:opencode-go/deepseek-v4-flash",
+    "percentage": 32
   }
 }

@@ -12,7 +12,7 @@
       "rawDisplayText": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
       "canonicalText": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
       "context": {
-        "currentNote": {
+        "linkedContent": {
           "path": "AI应用开发/numpy&pandas/第三章尚硅谷Pandas.md"
         }
       },
@@ -32,7 +32,8 @@
       "canonicalText": "我的第二章那个笔记也是,你帮我看一下",
       "images": [],
       "contentDigest": "60bcae146f92cd4c5a14c1f914b337ced6bac36925fcdd5bbc24a221ca72effd",
-      "providerAssistantMessageId": "msg_ff5929fe1001xpMLw1Qx3YiC2R"
+      "providerAssistantMessageId": "msg_ff5929fe1001xpMLw1Qx3YiC2R",
+      "providerUserMessageId": "msg_ff589b8340013iz0FEgs3CLwY2"
     },
     {
       "schemaVersion": 1,
@@ -45,7 +46,8 @@
       "canonicalText": "处理吧",
       "images": [],
       "contentDigest": "e8d70f34f4239eb447a3a1c9b2316ddec4d3dcf73532faef4bebc43f70e36f55",
-      "providerAssistantMessageId": "msg_ff594ebe30016FZZds0xEe7TdX"
+      "providerAssistantMessageId": "msg_ff594ebe30016FZZds0xEe7TdX",
+      "providerUserMessageId": "msg_ff594285d0016TOpj8ZDkaG6fD"
     }
   ]
 }

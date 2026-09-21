@@ -1,11 +1,11 @@
 {
-  "id": "conv-1786530455821-sg0qibs9j",
+  "id": "conv-1790015111314-1uwfeoy7g",
   "providerId": "opencode",
-  "title": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
+  "title": "你好",
   "titleGenerationStatus": "failed",
-  "createdAt": 1786530455828,
-  "lastActivityAt": 1786531614247,
-  "sessionId": "ses_00a7c92a5ffeA5t9cx6LI80vrp",
+  "createdAt": 1790015111316,
+  "lastActivityAt": 1790015174166,
+  "sessionId": "ses_f3ac8f6f6ffeWsF0ao7bboiV1v",
   "selectedModel": "opencode:opencode-go/glm-5.3-flash",
   "providerState": {
     "databasePath": "C:\\Users\\xhtpc\\.local\\share\\opencode\\opencode.db",
@@ -14,11 +14,11 @@
   "usage": {
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
-    "contextTokens": 64203,
+    "contextTokens": 7914,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": false,
-    "inputTokens": 0,
-    "model": "opencode:opencode-go/deepseek-v4-flash",
-    "percentage": 32
+    "inputTokens": 7914,
+    "model": "opencode:opencode-go/glm-5.3-flash",
+    "percentage": 4
   }
 }

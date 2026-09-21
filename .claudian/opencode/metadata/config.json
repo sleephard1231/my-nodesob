@@ -9,6 +9,9 @@
         "external_directory": "deny"
       },
       "prompt": "{file:D:\\My-kownnodes\\nodes-ob\\mynodes\\.claudian\\opencode\\metadata\\system.md}"
+    },
+    "plan": {
+      "disable": true
     }
   },
   "default_agent": "claudian-execution-passive"

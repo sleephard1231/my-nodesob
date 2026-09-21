@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789478714483-zkpwgc9hb",
+  "providerId": "opencode",
+  "title": "我这里的图片在目录好突兀啊,你有没有什么好的处理方法",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789478714489,
+  "lastActivityAt": 1790014699131,
+  "sessionId": "ses_f5ac1ba78ffeFoJza9gVNLbbHj",
+  "selectedModel": "opencode:opencode-go/glm-5.3-flash",
+  "providerState": {
+    "databasePath": "C:\\Users\\xhtpc\\.local\\share\\opencode\\opencode.db",
+    "nativeConversationContextEstablished": true
+  },
+  "linkedContentPath": "trading/价格行为学/方方土学委价格行为学.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 0,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 0,
+    "model": "haiku",
+    "percentage": 0
+  }
+}

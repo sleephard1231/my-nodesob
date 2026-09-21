@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790014717553-ol3nawtcj",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790014717602-ainni7z",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790014717550-jbajkna",
+      "timestamp": 1790014717550,
+      "rawDisplayText": "重新排版整理笔记",
+      "canonicalText": "重新排版整理笔记",
+      "context": {
+        "linkedContent": {
+          "path": "演出.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "67b940c8e9f516cd2dd5d8e4ada1c77362e9e2e40a3752d4ff69d4708865d3e4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790014870548-09vuboi",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790014870545-j6md8we",
+      "timestamp": 1790014870545,
+      "rawDisplayText": "你好",
+      "canonicalText": "你好",
+      "images": [],
+      "contentDigest": "815b1925f3db319cfc8ef8cad8a91b3f8b512f630d8f82635cb105e93e666c2a"
+    }
+  ]
+}

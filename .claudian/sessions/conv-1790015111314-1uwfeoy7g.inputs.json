@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790015111314-1uwfeoy7g",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790015111345-mq13z8e",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790015111311-eyp8x30",
+      "timestamp": 1790015111311,
+      "rawDisplayText": "你好",
+      "canonicalText": "你好",
+      "images": [],
+      "contentDigest": "815b1925f3db319cfc8ef8cad8a91b3f8b512f630d8f82635cb105e93e666c2a",
+      "providerUserMessageId": "msg_0c5370959001ee40Gyd0jPyLXq",
+      "providerAssistantMessageId": "msg_0c5370975001rYm2gNjCS1nEf9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790015164073-k46qqwx",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790015164070-u085550",
+      "timestamp": 1790015164070,
+      "rawDisplayText": "尿壶",
+      "canonicalText": "尿壶",
+      "images": [],
+      "contentDigest": "40b6f4e618facfbc9515c1dc71a8f8ad8d083b7ae567255a290cf32ffe90a0d5",
+      "providerAssistantMessageId": "msg_0c537d818001sSKZMowm3WOugf",
+      "providerUserMessageId": "msg_0c537d7f9001RY8pSpKjAI6S7w"
+    }
+  ]
+}

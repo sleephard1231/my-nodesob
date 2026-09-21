@@ -1,24 +1,25 @@
 {
-  "id": "conv-1786530455821-sg0qibs9j",
+  "id": "conv-1790014717553-ol3nawtcj",
   "providerId": "opencode",
-  "title": "你看一下为什么我点击目录的时候,无法滑到相关的位置",
+  "title": "重新排版整理笔记",
   "titleGenerationStatus": "failed",
-  "createdAt": 1786530455828,
-  "lastActivityAt": 1786531614247,
-  "sessionId": "ses_00a7c92a5ffeA5t9cx6LI80vrp",
+  "createdAt": 1790014717567,
+  "lastActivityAt": 1790014875184,
+  "sessionId": "ses_f3acef88bffeSDOCHQf1L3Xboz",
   "selectedModel": "opencode:opencode-go/glm-5.3-flash",
   "providerState": {
     "databasePath": "C:\\Users\\xhtpc\\.local\\share\\opencode\\opencode.db",
     "nativeConversationContextEstablished": true
   },
+  "linkedContentPath": "演出.md",
   "usage": {
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
-    "contextTokens": 64203,
+    "contextTokens": 0,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": false,
     "inputTokens": 0,
-    "model": "opencode:opencode-go/deepseek-v4-flash",
-    "percentage": 32
+    "model": "opencode:deepseek/deepseek-flash",
+    "percentage": 0
   }
 }

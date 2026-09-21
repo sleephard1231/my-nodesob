@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789478714483-zkpwgc9hb",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789478714530-aa4ks0j",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789478714480-ibto7f5",
+      "timestamp": 1789478714480,
+      "rawDisplayText": "我这里的图片在目录好突兀啊,你有没有什么好的处理方法",
+      "canonicalText": "我这里的图片在目录好突兀啊,你有没有什么好的处理方法",
+      "context": {
+        "linkedContent": {
+          "path": "trading/价格行为学/交易之路.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "eacca05557c7e0713f08f666c0845a0375ff49b4e52898f1dd51ece6d07565ea",
+      "providerUserMessageId": "msg_0a53e45e5001BAF16n34wcWKxL",
+      "providerAssistantMessageId": "msg_0a53e4606001GAz1DG59t53zhL"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790014629769-qtr2vr3",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790014629753-nim9x3w",
+      "timestamp": 1790014629753,
+      "rawDisplayText": "把这篇笔记重新排版整理好",
+      "canonicalText": "把这篇笔记重新排版整理好",
+      "images": [],
+      "contentDigest": "b60e4886cfcf59385f6a005b80bf5b606a64fd7d95f94ff6fa06c034ea78869c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790014696907-wm0s2l4",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1790014696904-t453wha",
+      "timestamp": 1790014696904,
+      "rawDisplayText": "/cl1",
+      "canonicalText": "/cl1",
+      "images": [],
+      "contentDigest": "477de95e5ebc60286de6111bb3cfa8790ef1a6bbb92df34e60b90b2f346f80ff"
+    }
+  ]
+}

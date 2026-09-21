@@ -11,7 +11,6 @@
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
-  "persistentExternalContextPaths": [],
   "sharedEnvironmentVariables": "",
   "envSnippets": [],
   "customContextLimits": {},
@@ -26,12 +25,12 @@
   "providerConfigs": {
     "claude": {
       "enabled": true,
+      "responseStyle": "Default",
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": false,
-      "enableBangBash": false,
       "customModels": "",
       "defaultModel": "opus",
       "lastModel": "haiku",
@@ -214,7 +213,8 @@
       "installationMethodsByHost": {
         "device-11714a0455393364740fd932762b2492154193e5b79894ece4a4686d05353841": "native-windows"
       },
-      "wslDistroOverridesByHost": {}
+      "wslDistroOverridesByHost": {},
+      "responseStyle": "pragmatic"
     },
     "opencode": {
       "cliPath": "",
@@ -224,11 +224,11 @@
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
       "preferredThinkingByModel": {
-        "opencode-go/deepseek-v4-flash": "max"
+        "opencode-go/deepseek-v4-flash": "high"
       },
       "selectedMode": "",
       "thinkingOptionsByModel": {
-        "opencode-go/deepseek-v4-flash": [
+        "opencode-go/glm-5.3-flash": [
           {
             "label": "Low",
             "value": "low"
@@ -240,11 +240,15 @@
           {
             "label": "Max",
             "value": "max"
+          },
+          {
+            "label": "Default",
+            "value": "default"
           }
         ]
       },
       "visibleModels": [
-        "opencode-go/deepseek-v4-flash"
+        "opencode-go/glm-5.3-flash"
       ]
     },
     "pi": {
@@ -267,7 +271,6 @@
       "environmentHash": "",
       "environmentVariables": "",
       "modelAliases": {},
-      "planBasePermissionMode": "normal",
       "preferredReasoningByModel": {},
       "visibleModels": null
     }
@@ -275,17 +278,17 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
     "providerId": "opencode",
-    "model": "opencode:opencode-go/deepseek-v4-flash"
+    "model": "opencode:opencode-go/glm-5.3-flash"
   },
   "savedProviderModel": {
     "claude": "haiku",
     "codex": "gpt-5.5",
-    "opencode": "opencode:opencode-go/deepseek-v4-flash"
+    "opencode": "opencode:opencode-go/glm-5.3-flash"
   },
   "savedProviderEffort": {
     "claude": "high",
     "codex": "high",
-    "opencode": "max"
+    "opencode": "high"
   },
   "savedProviderServiceTier": {
     "codex": "fast"
@@ -300,6 +303,7 @@
   "lastCustomModel": "",
   "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
+  "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791459964767-h1apou8jz",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791459964832-hyf7j85",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791459964762-h0lelpd",
+      "timestamp": 1791459964762,
+      "rawDisplayText": "重新排版给我",
+      "canonicalText": "重新排版给我",
+      "context": {
+        "linkedContent": {
+          "path": "myproject/8月份工作要求.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "b61089e9637aae9fd2bd5ab968ec91bd40258e0521c6a538ff250244e8f9c93a",
+      "providerAssistantMessageId": "msg_11b5695620016F2o8OpOyGyPRE"
+    }
+  ]
+}

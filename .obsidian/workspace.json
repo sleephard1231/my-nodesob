@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d76746c32de547a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "演出.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "演出"
-            }
-          },
-          {
             "id": "efdb956373039433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "演出.md",
+                "file": "GEO/SEO/SEO完整实战课程_笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "演出"
+              "title": "SEO完整实战课程_笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +186,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1790015093361-rog81rm",
-                      "conversationId": null,
-                      "draftModel": "opencode:opencode-go/glm-5.3-flash"
+                      "conversationId": "conv-1791459964767-h1apou8jz"
                     }
                   ],
                   "activeTabId": "tab-1790015093361-rog81rm"
@@ -217,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.2999267578125
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,54 +216,54 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7990dfa6b2457bef",
+  "active": "c6c7c7f046188d33",
   "lastOpenFiles": [
-    "未命名.md",
-    "演出.md",
-    "个人项目/smotion/miky论.md",
-    "个人项目/smotion/笔记.md",
-    "trading/价格行为学/方方土学委价格行为学.md",
+    "myproject/smotion/领袖/雄性领袖是怎样炼成的_笔记.md",
+    "myproject/smotion/领袖/樊公子·雄性领袖_完整口播文稿.docx",
+    "myproject/smotion/黄毛/假黄毛都闭嘴 来听听真正的黄毛思维!_笔记.md",
+    "myproject/smotion/黄毛/假黄毛都闭嘴 来听听真正的黄毛思维!_口播文稿.docx",
+    "myproject/smotion/需女",
+    "myproject/smotion/新建文件夹",
+    "myproject/smotion/黄毛",
+    "未命名",
+    "myproject/smotion/领袖",
+    "GEO/信源大全.md",
+    "GEO/SEO/SEO完整实战课程_笔记.md",
+    "GEO/SEO",
+    "myproject/smotion/miky论.md",
+    "myproject/smotion/最隐形的长期资产.md",
+    "myproject/smotion/《颜值 · 技巧 · 价值在 game 中的运用》全程详录笔记.md",
+    "myproject/smotion/当代两性环境.md",
+    "myproject/smotion/工作生活爱情学习如何平衡.md",
+    "myproject/8月份工作要求.md",
+    "myproject/English-study-road.md",
+    "Booknote/经营未来.md",
+    "other/播客笔记-搞钱女孩深圳听友会.md",
+    "Booknote/读书笔记 MOC.md",
+    "AIcodernote/小北应用箱开发.md",
+    "AIcodernote/numpy&pandas/第二章_Numpy学习笔记.md",
+    "Booknote/股票大作手回忆录.md",
+    "pc-ssh-vpn/hermes的隧道翻墙ssh配置.md",
+    "web3/AI×Web3_黑客松实战_笔记.md",
     "README.md",
-    "trading/YouTube双均线交易系统币哥.md",
-    "trading/BTC-ETH周线复盘与下周思路.md",
-    "trading/以太战法交易直播-整理版.md",
-    "trading/交易日记-5月.md",
-    "trading/个人交易.md",
-    "trading/加密说_笔记.md",
-    "trading/价格行为学/价格行为学突破专题.md",
-    "trading/价格行为学/Pasted image 20260912150706.png",
-    "wb3/播客笔记-为什么看好Web3.md",
-    "pc配置/配置 MOC.md",
-    "pc配置/hermes的隧道翻墙ssh配置.md",
-    "个人项目/8月份工作要求.md",
-    "其他/Pasted image 20260915173622.png",
-    "个人项目/smotion/《颜值 · 技巧 · 价值在 game 中的运用》全程详录笔记.md",
-    "个人项目/smotion/工作生活爱情学习如何平衡.md",
-    "trading/以太战法-口播文案.md",
-    "其他/Pasted image 20260915175225.png",
-    "其他/Pasted image 20260915174350.png",
-    "其他/Pasted image 20260914182233.png",
-    "个人项目/smotion",
-    "trading/价格行为学/Pasted image 20260914142110.png",
-    "trading/价格行为学/Pasted image 20260912180616.png",
-    "trading/价格行为学/Pasted image 20260912151542.png",
-    "trading/价格行为学/Pasted image 20260912150821.png",
-    "trading/价格行为学/Pasted image 20260912150807.png",
-    "其他/播客笔记-搞钱女孩深圳听友会.md",
-    "trading/价格行为学/stop order.md",
-    "trading/价格行为学",
-    "AI应用开发/小北应用箱开发.md",
-    "trading/以太战法交易直播.md",
-    "trading/交易 MOC.md",
-    "trading/交易系统完整笔记.md",
-    "个人项目",
-    "AI应用开发/numpy&pandas",
-    "AI应用开发/新建文件夹",
-    "AI应用开发/mysql",
-    "未命名 1",
-    "GEO",
-    "AI应用开发",
-    "新建文件夹",
+    "web3/Web3 运行原理 - AI下乡计划分享笔记.md",
+    "web3/web3-运行原理-笔记.md",
+    "web3/AI_Agent支付_完整学习笔记.md",
+    "web3/播客笔记-为什么看好Web3.md",
+    "Trading/YouTube双均线交易系统币哥.md",
+    "Trading/以太战法交易直播-整理版.md",
+    "Trading/价格行为学/Pasted image 20260912150706.png",
+    "web3",
+    "other/Pasted image 20260915174350.png",
+    "other/Pasted image 20260915175225.png",
+    "other/Pasted image 20260915173622.png",
+    "other/Pasted image 20260914182233.png",
+    "other",
+    "Trading/价格行为学/Pasted image 20260914142110.png",
+    "Trading/价格行为学/Pasted image 20260912180616.png",
+    "Trading/价格行为学/Pasted image 20260912151542.png",
+    "Trading/价格行为学/Pasted image 20260912150821.png",
+    "Trading/价格行为学/Pasted image 20260912150807.png",
     "未命名.canvas"
   ]
 }

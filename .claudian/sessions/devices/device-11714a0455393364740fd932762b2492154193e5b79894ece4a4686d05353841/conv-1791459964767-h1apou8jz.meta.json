@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791459964767-h1apou8jz",
+  "providerId": "opencode",
+  "title": "重新排版给我",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1791459964783,
+  "lastActivityAt": 1791460054530,
+  "sessionId": "ses_ee4aa3e41ffeyBs661JcgO9MY8",
+  "selectedModel": "opencode:opencode-go/glm-5.3-flash",
+  "providerState": {
+    "databasePath": "C:\\Users\\xhtpc\\.local\\share\\opencode\\opencode.db",
+    "nativeConversationContextEstablished": true
+  },
+  "linkedContentPath": "myproject/8月份工作要求.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4480,
+    "contextTokens": 9473,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 4993,
+    "model": "opencode-go/glm-5.3-flash",
+    "percentage": 1
+  }
+}

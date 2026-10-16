@@ -1,4 +1,4 @@
-﻿---
+---
 type: moc
 topic: books
 created: 2026-08-02

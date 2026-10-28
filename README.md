@@ -5,8 +5,7 @@ updated: 2026-08-02
 tags:
   - vault/index
 ---
-
-# 知识库首页
+知识库首页
 
 > 这是整个 vault 的导航页。建议把它作为 Obsidian 的首页或固定标签页使用。
 

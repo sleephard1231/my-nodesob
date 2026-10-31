@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myproject/smotion/个人系列/月薪5000的县城屌丝 3个月收获8段恋爱_笔记.md",
+                "file": "myproject/8月份工作要求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "月薪5000的县城屌丝 3个月收获8段恋爱_笔记"
+              "title": "8月份工作要求"
             }
           }
         ],
@@ -216,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 490.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,14 +231,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fc7f496621f3b943",
+  "active": "7990dfa6b2457bef",
   "lastOpenFiles": [
-    "myproject/smotion/无需整容 _ 一秒变帅哥教程_笔记.md",
-    "myproject/smotion/个人系列/月薪5000的县城屌丝 3个月收获8段恋爱_笔记.md",
-    "myproject/smotion/最隐形的长期资产.md",
-    "Growing/对话孙宇晨_AI黄金时代_笔记.md",
-    "AI-road/自媒体计划.md",
     "README.md",
+    "AI-road/自媒体计划.md",
+    "Growing/对话孙宇晨_AI黄金时代_笔记.md",
+    "myproject/smotion/个人系列/月薪5000的县城屌丝 3个月收获8段恋爱_笔记.md",
+    "myproject/smotion/无需整容 _ 一秒变帅哥教程_笔记.md",
+    "myproject/smotion/最隐形的长期资产.md",
     "未命名.md",
     "Growing",
     "myproject/English-study-road.md",

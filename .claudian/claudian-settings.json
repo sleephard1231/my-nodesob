@@ -78,19 +78,19 @@
       "thinkingOptionsByModel": {
         "opencode-go/glm-5.3-flash": [
           {
-            "label": "Low",
+            "label": "low",
             "value": "low"
           },
           {
-            "label": "High",
+            "label": "high",
             "value": "high"
           },
           {
-            "label": "Max",
+            "label": "max",
             "value": "max"
           },
           {
-            "label": "Default",
+            "label": "default",
             "value": "default"
           }
         ]
@@ -100,7 +100,7 @@
       ],
       "selectedModels": [
         {
-          "label": "OpenCode Go/GLM-5.3-Flash",
+          "label": "opencode-go/GLM-5.3-Flash",
           "rawId": "opencode-go/glm-5.3-flash"
         }
       ]
